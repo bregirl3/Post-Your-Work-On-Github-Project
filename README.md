@@ -12,6 +12,7 @@ Operation
 The developed CLI program allows the user to explore a US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to choose to view raw data and to sort this data by columns, in ascending or descending order.
 
 Project Instructions
+
 Create a GitHub profile if you have not already done so. You can visit https://github.com/ to do this.
 Download the document template: Git Commands Documentation. Make a copy of this document on your Google drive. This is the only file you'll need to submit for this project. More details on how to use this template are provided below.
 Download Atom or another text editor that allows you to preview markdown files. If you are unfamiliar with Markdown, more details on this are provided in the Tasks: Documentation page.
