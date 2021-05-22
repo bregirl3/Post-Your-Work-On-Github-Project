@@ -3,7 +3,9 @@ Post-your-Work-on-GitHub-Project
 Programming for Data Science with Python
 
 Overview
+
 In this project, Python is used to explore data extracted from bikeshare systems for three major cities in the United States — Chicago, New York City, and Washington. Requirements include:
+
 Importing data and addressing interesting questions regarding the output results by computing descriptive statistics.
 Creating a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 Operation
