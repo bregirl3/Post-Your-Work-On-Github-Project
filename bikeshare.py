@@ -8,7 +8,6 @@ import time
 #new_york_city = 'new_york_city.csv'
 #washington = 'washington.csv'
 
-
 def get_city():
     '''Asks the user for a city and returns the filename for that city's bike share data.
     Args:
